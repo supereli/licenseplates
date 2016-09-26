@@ -1,0 +1,14 @@
+{
+  "Type": "Notification",
+  "Subject": "Openstack Image Notification",
+  "endpoint_url": "southsf.dactbc.com:8080",
+  "cluster": "mem1",
+  "aws_access_key": "8b4b447c8f6b415ea1fd66a6471a4355",
+  "aws_secret_key": "[FILTERED]",
+  "publish_key": "pub-c-b4391713-87a7-4b55-8031-27aede3d1b4c",
+  "subscribe_key": "sub-c-88fc8c12-3dc0-11e6-bfbb-02ee2ddab7fe",
+  "dockerimage": "supereli/thetessaness",
+  "token": "[FILTERED]",
+  "projectid": "57c464c063486100062ba64f",
+  "Message": "{\"Records\":[{\"s3\":{\"bucket\":{\"name\":\"LicensePlates\"},\"object\":{\"key\":\"inbox/south_carolina.jpg\"}}}]}"
+}
